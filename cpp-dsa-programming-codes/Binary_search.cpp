@@ -20,8 +20,8 @@ void Binary_search_algo(vector<int> & array,int n, int key){
         else{
             end=mid-1;
         }
-        start++;
-        end--;
+        // start++;
+        // end--;
     }
     
 }
